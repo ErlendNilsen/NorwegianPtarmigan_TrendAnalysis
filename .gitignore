@@ -6,4 +6,10 @@
 /data
 /Reports
 NorwegianPtarmigan_TrendANalysis.Rproj
-.TrendAnalysis2020/ModelOutput
+/ModelOutput
+/RunningModels
+/Models
+/data
+/Resultater_publish.rmd
+/Figures
+/Resultater_publish.docx
